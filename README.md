@@ -34,6 +34,15 @@
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
 <a href="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
 <a href="https://camo.githubusercontent.com/d5e222f37b91cf39143d6ed867b049fed4f621256765b33620103bf99a05d1f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974" target="_blank"> <img src="https://camo.githubusercontent.com/d5e222f37b91cf39143d6ed867b049fed4f621256765b33620103bf99a05d1f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974" alt="git"/></a>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+<a href="https://camo.githubusercontent.com/473c627ae1fb6868c6b13c2a591fec0c82d09851c292c383d411656fd20adb63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e61636f6e64612d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461"><img src="https://camo.githubusercontent.com/473c627ae1fb6868c6b13c2a591fec0c82d09851c292c383d411656fd20adb63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e61636f6e64612d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461"></a>
+
+<h3 align="left">Coding Platforms:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/mayanktolani19"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -44,9 +53,10 @@
 <a href="mailto:mayanktolani19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mayanktolani19"/></a>
 </p>
 
+
+<h3 align="left">My Github Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanktolani19&show_icons=true&locale=en&layout=compact" alt="mayanktolani19" /></p>
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanktolani19&show_icons=true&locale=en" alt="mayanktolani19" /></p>
 
