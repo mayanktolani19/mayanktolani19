@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank K Tolani</h1>
-<h3 align="center">I'm a 3rd year B.Tech student from Vellore Institute of Technology(VIT), Chennai.</h3>
+<h3 align="center">I'm a final year B.Tech student from Vellore Institute of Technology(VIT), Chennai.</h3>
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
