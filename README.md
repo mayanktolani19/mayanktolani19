@@ -60,3 +60,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanktolani19&show_icons=true&locale=en" alt="mayanktolani19" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayanktolani19&theme=default)](https://git.io/streak-stats)
