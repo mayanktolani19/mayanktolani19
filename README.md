@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank K Tolani</h1>
-<h3 align="center">I'm a final year B.Tech student from Vellore Institute of Technology(VIT), Chennai.</h3>
+<h3 align="center">Inquisitive, energetic Engineering graduate with a strong passion for computer science, currently focused on learning new skills in my domain. I have done internships at a couple of companies and also have experience working as a freelancer in flutter. Seeking to work on projects with a strong focus on collaboration, communication and creativity as a programmer.</h3>
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
