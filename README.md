@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanktolani19&label=Profile%20views&color=0e75b6&style=flat" alt="mayanktolani19" /> </p>
 
-- 🔭 I’m currently working at **Bajaj Finserv** as an **Intern**.
+- 🔭 I’m currently working as a Software Engineer.
 
 - 📝 I occasionally write articles on Medium [https://medium.com/analytics-vidhya/machine-learning-in-flutter-315870669f1f](https://medium.com/analytics-vidhya/machine-learning-in-flutter-315870669f1f)
 
