@@ -7,13 +7,7 @@
 
 - 🔭 I’m currently working as a Software Engineer.
 
-- 📝 I occasionally write articles on Medium [https://medium.com/analytics-vidhya/machine-learning-in-flutter-315870669f1f](https://medium.com/analytics-vidhya/machine-learning-in-flutter-315870669f1f)
-
 - 📫 How to reach me **mayanktolani19@gmail.com**
-
-- 📄 Know about my experiences [http://mayank.flads.in/](http://mayank.flads.in/)
-
-
 
 <h3 align="left">Languages:</h3>
 <p align="left"><a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
